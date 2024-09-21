@@ -38,6 +38,7 @@ body {
     font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
     letter-spacing: 3px;
     margin-bottom: 15%;
+    padding: 1rem;
     text-align: center;
   }
 }
